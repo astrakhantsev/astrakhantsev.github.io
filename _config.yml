@@ -68,7 +68,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.linkedin.com/in/nikita-astrakhantsev-6072657b"
 # Analytics
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
@@ -88,17 +87,17 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "nikita.astrakhantsev"
+  facebook         :
   foursquare       :
   github           : "astrakhantsev"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "nikita-astrakhantsev-6072657b"
+  linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "4588780/nikita-astrakhantsev" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :
